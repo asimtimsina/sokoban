@@ -1,4 +1,4 @@
-#include "at0733HW4func.h"
+#include "func.h"
 
 
 int main (){
